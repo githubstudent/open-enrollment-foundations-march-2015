@@ -1,2 +1,2 @@
-# open-enrollment-foundations-march-2015
-Sample repository for the March Open Enrollment foundations class
+# Open Enrollment Foundations March 2015
+This is a sample repository for the March Open Enrollment Foundations class
